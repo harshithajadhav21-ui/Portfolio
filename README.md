@@ -1,0 +1,1 @@
+A professional personal portfolio built using React.js, showcasing my skills, projects, certifications, and experience in Computer Science Engineering. It features interactive project displays, a responsive design, and dark and light themes to highlight my technical abilities and development journey.
